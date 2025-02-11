@@ -15,4 +15,4 @@ For slots, with J you select a bet of 1, 2, or 3 money and spin to randomize the
 For bingo, you pay 100 to play and roll numbers balls with L, selecting a corresponding number on your card with J until you get 5 matches in a row. You get payed based on the number of balls used.
 You can return to the home by selecting the home button on any of the games.
 
-![Alt text](Casino_-_Don't_Gamble.png)
+![Alt text](Casino_-_Dont_Gamble.png)
